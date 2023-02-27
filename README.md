@@ -1,4 +1,4 @@
-### Hi there, I'm Satria Aluh Perwira Nusa 👋
+### Hi there, I'm Tinton Aji Sadewo 👋
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
