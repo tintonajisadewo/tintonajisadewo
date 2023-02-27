@@ -6,3 +6,11 @@
 - 🤔 I’m looking for suggest for Automation and Odoo Developer
 - 💬 Ask me about anything
 - 📫 How to reach me: tintonajisadewo19@gmail.com
+
+## Education:
+
+#### 1. [Telkom University]([https://telkomuniversity.ac.id/]) | Bachelor of Computer Engineering | Yogyakarta `2016-2020`
+   - Chief of IKEMAS (Ikatan Mahasiswa Sukoharjo-Wonogiri)
+
+#### 2. SMA N 1 Kebumen | MIPA | Sukoharjo `2014-2017`
+   - Chief of Rohkris
