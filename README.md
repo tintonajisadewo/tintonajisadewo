@@ -12,7 +12,7 @@
 #### 1. [Telkom University]([https://telkomuniversity.ac.id/]) | Bachelor of Computer Engineering | Yogyakarta `2016-2020`
    - Chief of IKEMAS (Ikatan Mahasiswa Sukoharjo-Wonogiri)
 
-#### 2. SMA N 1 Kebumen | MIPA | Sukoharjo `2014-2017`
+#### 2. SMA N 3 Sukoharjo| MIPA | Sukoharjo `2014-2017`
 
 ## Work Experience:
 #### 1. [MMP Consulting](https://www.mmpconsulting.net) | Odoo Developer | Surakarta `April'2022 - Now`
