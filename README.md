@@ -1,6 +1,6 @@
 # Hi there, I'm Tinton 👋
 ## About me:
-- 🔭 I’m currently working at [MMP Consulting](https://www.mmpconsulting.net)
+- 🔭 I’m currently working at [ERPANA]
 - 🌱 I’m currently Odoo Developer and Quality Assurance
 - 👯 I’m looking to collaborate as Quality Assurance
 - 🤔 I’m looking for suggest for Automation and Odoo Developer
